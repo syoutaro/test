@@ -1,0 +1,25 @@
+.top {
+    background-color: black;
+    color: white;
+    height: 50px;
+    width: 100%;
+    margin-bottom: 5px;
+}
+
+.top ul li{
+    float: left;
+    list-style: none;
+    line-height: 50px;
+    padding-left: 90px;
+}
+
+.left{
+    clear: both;
+    width: 65%;
+}
+
+.logo{
+    border-bottom: 1px solid black;
+    border-left: 3px solid black;
+    font-size: 30px;
+}
